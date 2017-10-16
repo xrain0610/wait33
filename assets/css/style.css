@@ -7,6 +7,11 @@ body {
     text-align: center;
 }
 
+audio {
+	opacity:0.7;
+	filter:Alpha(opacity=70);
+}
+
 strong { font-weight: 700; }
 
 a, a:hover, a:focus {
